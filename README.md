@@ -65,7 +65,7 @@ I can improve this project by adding:
 
 ## 👩‍💻 Author
 
-**Fizza**
+**Fiza Baneen**
 
 A beginner web development project created while learning **HTML & CSS**.
 
